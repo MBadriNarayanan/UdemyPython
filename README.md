@@ -18,7 +18,7 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [03 Coding Exercise 8 : Sets](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise8Sets.ipynb)
 
-[03 Coding Exercise 9 : FileI/O](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise9FileIO.ipynb)
+[03 Coding Exercise 9 : File I/O](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise9FileIO.ipynb)
 
 [03 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03AssessmentTest.ipynb)
 
