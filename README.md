@@ -2,7 +2,7 @@
 Course offered by Udemy and taught by Jose Portilla.
 
 
-[03 Coding Exercise 1 : Numbers : Simple Arithmetic](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise1NumbersSimpleArithmetic.ipynb)
+[03 Coding Exercise 1 : Numbers Simple Arithmetic](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise1NumbersSimpleArithmetic.ipynb)
 
 [03 Coding Exercise 2 : Quick Print Check](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise2QuickPrintCheck.ipynb)
 
@@ -23,3 +23,14 @@ Course offered by Udemy and taught by Jose Portilla.
 [03 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03AssessmentTest.ipynb)
 
 [05 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/05AssessmentTest.ipynb)
+
+[06 Coding Exercise 10 : Functions 1 Print Hello World](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise10Functions1PrintHelloWorld.ipynb)
+
+
+[06 Coding Exercise 11 : Functions 2 Print Hello Name](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise11Functions2PrintHelloName.ipynb)
+
+[06 Coding Exercise 12 : Functions 3 Simple Boolean](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise12Functions3SimpleBoolean.ipynb)
+
+[06 Coding Exercise 13 : Functions 4 Using Boolean](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise13Functions4UsingBooleans.ipynb)
+
+[06 Coding Exercise 14 : Functions 5 Simple Math](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise14Functions5SimpleMath.ipynb)
