@@ -21,3 +21,5 @@ Course offered by Udemy and taught by Jose Portilla.
 [03 Coding Exercise 9 : FileI/O](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03CodingExercise9FileIO.ipynb)
 
 [03 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03AssessmentTest.ipynb)
+
+[05 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/05AssessmentTest.ipynb)
