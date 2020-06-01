@@ -41,7 +41,7 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [06 Coding Exercise 17 : Functions 8 args](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise17Functions8args.ipynb)
 
-[06 Coding Exercise 18 : Pick Evens](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise18Functions9PickEvens.ipynb)
+[06 Coding Exercise 18 : Functions 9 Pick Evens](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise18Functions9PickEvens.ipynb)
 
-[06 Coding Exercise 19 : Skyline](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise19Functions10Skyline.ipynb)
+[06 Coding Exercise 19 : Functions 10 Skyline](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise19Functions10Skyline.ipynb)
 
