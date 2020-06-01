@@ -45,3 +45,4 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [06 Coding Exercise 19 : Functions 10 Skyline](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise19Functions10Skyline.ipynb)
 
+[06 Function Pratice Exercises](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06FunctionPracticeExercises.ipynb)
