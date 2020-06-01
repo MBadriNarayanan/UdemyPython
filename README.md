@@ -34,3 +34,14 @@ Course offered by Udemy and taught by Jose Portilla.
 [06 Coding Exercise 13 : Functions 4 Using Boolean](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise13Functions4UsingBooleans.ipynb)
 
 [06 Coding Exercise 14 : Functions 5 Simple Math](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise14Functions5SimpleMath.ipynb)
+
+[06 Coding Exercise 15 : Functions 6 Is Even](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise15Functions6IsEven.ipynb)
+
+[06 Coding Exercise 16 : Functions 7 Is Greater](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise16Functions7IsGreater.ipynb)
+
+[06 Coding Exercise 17 : Functions 8 args](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise17Functions8args.ipynb)
+
+[06 Coding Exercise 18 : Pick Evens](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise18Functions9PickEvens.ipynb)
+
+[06 Coding Exercise 19 : Skyline](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise19Functions10Skyline.ipynb)
+
