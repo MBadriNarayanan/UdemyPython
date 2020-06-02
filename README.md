@@ -53,3 +53,7 @@ Course offered by Udemy and taught by Jose Portilla.
 [07 Milestone Project 1 : Tic Tac Toe](https://github.com/MBadriNarayanan/UdemyPython/blob/master/07MilestoneProject1TicTacToe.ipynb)
 
 [07 Milestone Project 1 Optional : Tic Tac Toe Advanced](https://github.com/MBadriNarayanan/UdemyPython/blob/master/07OptionalMilestoneProject1TicTacToeAdvanced.ipynb)
+
+[08 OOP Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/08OOPHomework.ipynb)
+
+[08 OOP Challenge](https://github.com/MBadriNarayanan/UdemyPython/blob/master/08OOPChallenge.ipynb)
