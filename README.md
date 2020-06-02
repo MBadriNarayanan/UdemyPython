@@ -48,3 +48,8 @@ Course offered by Udemy and taught by Jose Portilla.
 [06 Function Pratice Exercises](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06FunctionPracticeExercises.ipynb)
 
 [06 Functions And Methods Homework Assignment](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06FunctionsAndMethodsHomeworkAssignment.ipynb)
+
+
+[07 Milestone Project 1 : Tic Tac Toe](https://github.com/MBadriNarayanan/UdemyPython/blob/master/07MilestoneProject1TicTacToe.ipynb)
+
+[07 Milestone Project 1 Optional : Tic Tac Toe Advanced](https://github.com/MBadriNarayanan/UdemyPython/blob/master/07OptionalMilestoneProject1TicTacToeAdvanced.ipynb)
