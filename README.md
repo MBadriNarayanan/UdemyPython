@@ -57,3 +57,7 @@ Course offered by Udemy and taught by Jose Portilla.
 [08 OOP Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/08OOPHomework.ipynb)
 
 [08 OOP Challenge](https://github.com/MBadriNarayanan/UdemyPython/blob/master/08OOPChallenge.ipynb)
+
+[10 Erros And Exception Handling Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/10ErrorsAndExceptionsHomework.ipynb)
+
+[Milestone Project 2 : BlackJack](https://github.com/MBadriNarayanan/UdemyPython/blob/master/11MilestoneProject2BlackJack.ipynb)
