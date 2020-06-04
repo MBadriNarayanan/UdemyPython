@@ -64,4 +64,4 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [10 Erros And Exception Handling Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/10ErrorsAndExceptionsHomework.ipynb)
 
-[Milestone Project 2 : BlackJack](https://github.com/MBadriNarayanan/UdemyPython/blob/master/11MilestoneProject2BlackJack.ipynb)
+[11 Milestone Project 2 : BlackJack](https://github.com/MBadriNarayanan/UdemyPython/blob/master/11MilestoneProject2BlackJack.ipynb)
