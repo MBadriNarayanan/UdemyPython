@@ -22,10 +22,6 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [03 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/03AssessmentTest.ipynb)
 
-[13 Iterators And Generator Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/13IteratorsAndGeneratorsHomework.ipynb)
-
-[14 Capstone Project : Complex Number Operations](https://github.com/MBadriNarayanan/UdemyPython/blob/master/14FinalCapstoneProject.ipynb)
-
 [05 Assessment Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/05AssessmentTest.ipynb)
 
 [06 Coding Exercise 10 : Functions 1 Print Hello World](https://github.com/MBadriNarayanan/UdemyPython/blob/master/06CodingExercise10Functions1PrintHelloWorld.ipynb)
@@ -66,5 +62,8 @@ Course offered by Udemy and taught by Jose Portilla.
 
 [11 Milestone Project 2 : BlackJack](https://github.com/MBadriNarayanan/UdemyPython/blob/master/11MilestoneProject2BlackJack.ipynb)
 
+[13 Iterators And Generator Homework](https://github.com/MBadriNarayanan/UdemyPython/blob/master/13IteratorsAndGeneratorsHomework.ipynb)
 
-[16 Advanced Python Objects Test](https://github.com/MBadriNarayanan/UdemyPython)
+[14 Capstone Project : Complex Number Operations](https://github.com/MBadriNarayanan/UdemyPython/blob/master/14FinalCapstoneProject.ipynb)
+
+[16 Advanced Python Objects Test](https://github.com/MBadriNarayanan/UdemyPython/blob/master/16AdvancedPythonObjectsTest.ipynb)
