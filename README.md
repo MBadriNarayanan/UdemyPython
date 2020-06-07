@@ -1,5 +1,5 @@
 # UdemyPython
-Course offered by Udemy and taught by Jose Portilla.
+Course offered by Udemy. Created and taught by Jose Portilla.
 
 [Course Certificate](https://github.com/MBadriNarayanan/UdemyPython/blob/master/Python%20Certificate.pdf)
 
